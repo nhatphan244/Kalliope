@@ -11,10 +11,10 @@ Potential Features:
 - Collaborations and Sharings
 
 ## Team members & Roles:
-- Huu Quang Nhat Nguyen (Team Leader)
-- Du Quang Nguyen
-- Huy Phong Le
-- Nhat Minh Phan
+- Huu Quang Nhat Nguyen (Team Leader): nguye2hq@mail.uc.edu
+- Du Quang Nguyen: nguye2d6@mail.uc.edu
+- Huy Phong Le: leh8@mail.uc.edu
+- Nhat Minh Phan: mr.phanminhnhat@gmail.com
 
 ## Advisor
 
