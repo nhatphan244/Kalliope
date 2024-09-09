@@ -1,7 +1,7 @@
 # Kalliope
 
 ## Project Description
-This project involves developing an innovative application designed to enhance the research process by providing valuable insights and recommendations based on academic papers. The tool aims to streamline literature discovery and application, helping users efficiently navigate the vast landscape of research.
+This project involves developing an innovative application designed to enhance the research process by providing valuable insights and recommendations based on academic papers. The tool aims to streamline literature discovery and application, helping users efficiently navigate the vast research landscape.
 
 Potential Features:
 - Research Paper Synopsis (NLP)
@@ -15,6 +15,12 @@ Potential Features:
 - Du Quang Nguyen: nguye2d6@mail.uc.edu (Computer Science)
 - Huy Phong Le: leh8@mail.uc.edu (Computer Science)
 - Nhat Minh Phan: mr.phanminhnhat@gmail.com (Computer Science)
+
+## Professional Biography
+- Huu Quang Nhat Nguyen:
+- Du Quang Nguyen: 
+- Huy Phong Le:
+- Nhat Minh Phan: 
 
 ## Advisor
 
