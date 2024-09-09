@@ -5,16 +5,16 @@ This project involves developing an innovative application designed to enhance t
 
 Potential Features:
 - Research Paper Synopsis (NLP)
-- Related Papers Reccomendation
+- Related Papers Recommendation
 - Reverse Recommendation (Query-to-Paper Matching)
 - Save Related Papers
 - Collaborations and Sharings
 
 ## Team members & Roles:
-- Huu Quang Nhat Nguyen (Team Leader): nguye2hq@mail.uc.edu
-- Du Quang Nguyen: nguye2d6@mail.uc.edu
-- Huy Phong Le: leh8@mail.uc.edu
-- Nhat Minh Phan: mr.phanminhnhat@gmail.com
+- Huu Quang Nhat Nguyen (Team Leader): nguye2hq@mail.uc.edu (Computer Science)
+- Du Quang Nguyen: nguye2d6@mail.uc.edu (Computer Science)
+- Huy Phong Le: leh8@mail.uc.edu (Computer Science)
+- Nhat Minh Phan: mr.phanminhnhat@gmail.com (Computer Science)
 
 ## Advisor
 
